@@ -91,8 +91,8 @@ private:
         // the camera defocus disk.
 
         auto pixel_center = pixel00_loc + (i * pixel_delta_u) + (j * pixel_delta_v);
-        auto pixel_sample = pixel_center + pixel_sample_square();
-        //auto pixel_sample = pixel_center ;
+        //auto pixel_sample = pixel_center + pixel_sample_square();
+        auto pixel_sample = pixel_center ;//暂时先写这个吧，上面那个后来渲染很模糊。
         auto ray_origin = (defocus_angle <= 0) ? center : defocus_disk_sample();
         auto ray_direction = pixel_sample - ray_origin;
 
