@@ -9,15 +9,10 @@ PPM 是通过RGB三种颜色显现的图像（pixmaps）
 
 测试用例：
 #include <iostream>  
-#include <fstream>   
-
 int main() {
     // Image  
     int image_width = 256;
     int image_height = 256;
-
-    // Create an output file stream  
-    std::ofstream outputFile("C:\\Users\\QinZefan\\Desktop\\source\\output.ppm");
 
     // Write PPM header to the file  
     outputFile << "P3\n" << image_width << ' ' << image_height << "\n255\n";
@@ -31,17 +26,10 @@ int main() {
             int ir = static_cast<int>(255.99 * r);
             int ig = static_cast<int>(255.99 * g);
             int ib = static_cast<int>(255.99 * b);
-
-            // Write pixel values to the file  
-            outputFile << ir << ' ' << ig << ' ' << ib << '\n';
         }
     }
 
     std::cerr << "\nDone.\n";
-
-    // Close the output file stream  
-    outputFile.close();
-
     return 0;
 }
 运行完毕后，可以看见在所在文件夹中生成image.ppm图像文件，在你的控制台你可以看见二进制文本。
