@@ -138,7 +138,8 @@ inline vec3 random_in_unit_sphere() {
     }
 }
 inline vec3 random_unit_vector() {
-    return unit_vector(random_in_unit_sphere());
+    //return unit_vector(random_in_unit_sphere());
+    return unit_vector(random_in_unit_disk());//暂时先写这个吧，后面又渲染了一遍变的很模糊。
 }
 inline vec3 pixel_sample_square() {
     return vec3(vec3::random_double(-0.5, 0.5), vec3::random_double(-0.5, 0.5), 0);
