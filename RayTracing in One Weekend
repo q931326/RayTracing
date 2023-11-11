@@ -1,4 +1,10 @@
 在VS中需要设置重定向(调试->默认参数)为 >image.ppm
+    PPM图像格式是由Jef Poskanzer 在1991年所创造的。
+    PPM（Portable Pixmap Format）还有两位兄长，大哥名叫「PBM」，二哥人称「PGM」，他们三兄弟各有所长，下面为你们一一介绍：
+    PBM 是位图（bitmap），仅有黑与白，没有灰
+    PGM 是灰度图（grayscale）
+    PPM 是通过RGB三种颜色显现的图像（pixmaps）
+
 测试用例：
 #include <iostream>  
 #include <fstream>   
@@ -36,4 +42,4 @@ int main() {
 
     return 0;
 }
-运行完毕后，可以看见在所在文件夹中生成image.ppm图像文件。
+运行完毕后，可以看见在所在文件夹中生成image.ppm图像文件，在你的控制台你可以看见二进制文本。
