@@ -57,5 +57,7 @@ int main() {
 ![AAC0Z8( I$XOD~ 06U~_XF](https://github.com/q931326/RayTracing/assets/124950885/1ce530f4-3715-4418-9d8c-145870ad7e45)
 
 8.最终图像（RayTracing in One Weekend）
-![XL$2J{DI@9 UX5}04YVD`H0](https://github.com/q931326/RayTracing/assets/124950885/c48e30e4-1e89-4986-bff3-6ac88edabb56)
+
+![YV@26~9_W(SC_AE)RSEN5HE](https://github.com/q931326/RayTracing/assets/124950885/23408de3-9503-4c19-9959-156631b61549)
+
 由于前面图像比较简单，在《RayTracing in One Weekend》中能直接用现有代码并且我没有保存之前的代码，所以就略过了（O.0）
