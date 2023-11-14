@@ -1,4 +1,4 @@
-# RayTracing
+![F@0T)RPJ4RS{Q%{`36{PTQO](https://github.com/q931326/RayTracing/assets/124950885/f5c5d443-fd6e-4818-8a7d-1da1a014197f)# RayTracing
 Environment : VS2022,Win10
 在VS中需要设置重定向(调试->默认参数)为 >image.ppm
 PPM图像格式是由Jef Poskanzer 在1991年所创造的。
@@ -61,3 +61,56 @@ int main() {
 ![YV@26~9_W(SC_AE)RSEN5HE](https://github.com/q931326/RayTracing/assets/124950885/23408de3-9503-4c19-9959-156631b61549)
 
 由于前面图像比较简单，在《RayTracing in One Weekend》中能直接用现有代码并且我没有保存之前的代码，所以就略过了（O.0）
+
+第二部分：
+RayTracing the next Week
+一些过程中的图片：
+1.
+![FH66HTO$W%ATP81%ATPE5{P](https://github.com/q931326/RayTracing/assets/124950885/4b96687a-bf73-4ff2-b145-da44d168fb5b)
+
+2.
+![AK_G@D9M~ {QTUC( 6NE$_0](https://github.com/q931326/RayTracing/assets/124950885/a6edb370-16d9-43d6-9935-710ee629b970)
+
+3.![%AAK8}%FG~F1UYWA0ZY)3XQ](https://github.com/q931326/RayTracing/assets/124950885/964826fc-6150-4e7a-bacc-10d91cc7372c)
+
+4.
+![8 _E(9) CE~FVM@PNFY7){K](https://github.com/q931326/RayTracing/assets/124950885/29ba8f56-61b0-4b61-b7a7-76a2b5b6aad8)
+
+5.
+![YG{_`2`R~RN$44V KG @W6](https://github.com/q931326/RayTracing/assets/124950885/d27f89e1-29f5-4567-bfb1-9043b123f6ff)
+
+6.
+![T7Q(O05B 7 QPZC2YM2@MDU](https://github.com/q931326/RayTracing/assets/124950885/782c03f2-902f-4711-aeea-8296aa576d34)
+
+7.
+![(HR6BGFSLOLSZ%21{0AY}N9](https://github.com/q931326/RayTracing/assets/124950885/ec7a76fa-26e0-4874-8b15-92253b803ca8)
+
+8.
+![2L~E$3JOLIS8X1A19{ 9$CM](https://github.com/q931326/RayTracing/assets/124950885/9f1022f1-7829-482d-8c94-57cc19eb4250)
+
+9.
+![T91N5TU@AAVV L)D} 6H`{X](https://github.com/q931326/RayTracing/assets/124950885/c4bf685d-9b93-4c46-add8-b025a4be7efa)
+
+10.
+![ZKL NZWRJ2GM `GS2X590PY](https://github.com/q931326/RayTracing/assets/124950885/b46cd137-81f5-4508-a3ee-cb40e6e60623)
+
+11.
+![O~9`}~BQ9JMSG8HVV~E~IVW](https://github.com/q931326/RayTracing/assets/124950885/95394583-3d27-404e-9ba2-a3ad7c2437e4)
+
+12.
+![ARNCFQ37}VE`SSD}KFLJ{50](https://github.com/q931326/RayTracing/assets/124950885/a177f547-44df-45ba-abd7-c8553fc820a7)
+
+13.
+![Y8G2N I8F8XI5AMOM(O@ITO](https://github.com/q931326/RayTracing/assets/124950885/697c5da8-0926-4355-aa8a-a545604d5b6c)
+
+14.
+![F@0T)RPJ4RS{Q%{`36{PTQO](https://github.com/q931326/RayTracing/assets/124950885/a875d7ba-3931-440c-8f29-13746a498ace)
+
+15.
+![R6XL(9`KZ${}%55IQ4%Y V5](https://github.com/q931326/RayTracing/assets/124950885/8c50387f-ebdd-4d64-a0a3-c7863c4f2fbd)
+
+16.
+![7RWW5~@6@J574{@_V_@MXNU](https://github.com/q931326/RayTracing/assets/124950885/259d42c2-2b7c-4dcb-aa22-56a607e0898e)
+
+17.
+![$JAK@HPRY9X$)N` MYJ~9`7](https://github.com/q931326/RayTracing/assets/124950885/0766c82e-67dc-417f-8bbb-5ab4558248ef)
