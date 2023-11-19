@@ -1,4 +1,4 @@
-![F@0T)RPJ4RS{Q%{`36{PTQO](https://github.com/q931326/RayTracing/assets/124950885/f5c5d443-fd6e-4818-8a7d-1da1a014197f)# RayTracing
+# RayTracing
 Environment : VS2022,Win10
 在VS中需要设置重定向(调试->默认参数)为 >image.ppm
 PPM图像格式是由Jef Poskanzer 在1991年所创造的。
@@ -8,6 +8,7 @@ PGM 是灰度图（grayscale）
 PPM 是通过RGB三种颜色显现的图像（pixmaps）
 
 测试用例：
+
 #include <iostream>  
 int main() {
     // Image  
@@ -108,9 +109,8 @@ RayTracing the next Week
 
 15.
 ![R6XL(9`KZ${}%55IQ4%Y V5](https://github.com/q931326/RayTracing/assets/124950885/8c50387f-ebdd-4d64-a0a3-c7863c4f2fbd)
-
 16.
-![7RWW5~@6@J574{@_V_@MXNU](https://github.com/q931326/RayTracing/assets/124950885/259d42c2-2b7c-4dcb-aa22-56a607e0898e)
+   ![7RWW5~@6@J574{@_V_@MXNU](https://github.com/q931326/RayTracing/assets/124950885/5da1004c-cdae-4a5f-bcb9-ba60e71e144d)
 
 17.
-![$JAK@HPRY9X$)N` MYJ~9`7](https://github.com/q931326/RayTracing/assets/124950885/0766c82e-67dc-417f-8bbb-5ab4558248ef)
+![7LLE2)ZLTNHD{0PB~IT$X)H](https://github.com/q931326/RayTracing/assets/124950885/d59f392d-8d3d-4d4f-b41a-59bb1256f18b)
